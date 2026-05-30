@@ -98,9 +98,9 @@ The model achieved its best performance on the "Other" class while maintaining c
 
 ## Running the Project
 
-Open the notebook:
+On Colab or Open the notebook:
 
-jupyter notebook DeepLearning_Final_proj.ipynb
+jupyter notebook DeepLearning_Final_proj.ipynb 
 
 Run all cells sequentially to:
 
